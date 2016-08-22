@@ -1,0 +1,12 @@
+[package]
+name = "check_graphite"
+version = "0.1.0"
+authors = ["jaypei <jaypei97159@gmail.com>"]
+
+[dependencies]
+hyper="0.9.10"
+json = "0.10.2"
+docopt = "0.6"
+rustc-serialize = "0.3"
+lazy_static = "0.2.1"
+url = "1.2.0"
